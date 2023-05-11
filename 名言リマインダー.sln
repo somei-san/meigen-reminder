@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "名言リマインダー", "名言リマインダー\名言リマインダー.csproj", "{8605BCAF-DD02-42FA-9BBB-D0F368A9E64B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DCC3418E-37C5-4888-B9F0-D277FF4F712F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8605BCAF-DD02-42FA-9BBB-D0F368A9E64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8605BCAF-DD02-42FA-9BBB-D0F368A9E64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8605BCAF-DD02-42FA-9BBB-D0F368A9E64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8605BCAF-DD02-42FA-9BBB-D0F368A9E64B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {599E6689-1408-4BB1-9470-86F80DA6D804}
+	EndGlobalSection
+EndGlobal
